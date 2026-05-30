@@ -86,7 +86,7 @@ enabling managers to filter by region and instantly surface performance gaps.
 
 | File | Description |
 |---|---|
-| `superstore_sales_dashboard.pbix` | Power BI dashboard file |
+| `jaja.pbix` | Power BI dashboard file |
 | `superstore_sales_data.csv` | Raw dataset used for analysis |
 | `superstore_dashboard.jpeg` | Dashboard preview screenshot |
 
